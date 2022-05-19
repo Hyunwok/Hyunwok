@@ -1,3 +1,3 @@
 ### Things study these days 🧐 
-1. iOS
-2. life...
+1. Fastlane
+2. Firebase Features
