@@ -1,3 +1,1 @@
-### Things study these days 🧐 
-1. Fastlane
-2. Firebase Features
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunwok)](https://github.com/anuraghazra/github-readme-stats)
